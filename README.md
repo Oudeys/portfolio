@@ -7,7 +7,7 @@ Benvenuti nel mio portfolio! Questa repository raccoglie una vasta gamma di prog
 ## Progetti in Python
 
 ### Livello Base
-1. **[Calcolatrice Semplice]([https://github.com/tuo-username/progetto-python1](https://github.com/Oudeys/calcolatrice-semplice-python))**
+1. **[Calcolatrice Semplice](https://github.com/Oudeys/calcolatrice-semplice-python)**
 2. **[Generatore di Password](https://github.com/tuo-username/progetto-python2)**
 3. **[Simulatore di Lancio della Moneta](https://github.com/tuo-username/progetto-python3)**
 4. **[Contatore di Parole in un Testo](https://github.com/tuo-username/progetto-python4)**
